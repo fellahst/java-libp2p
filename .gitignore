@@ -1,0 +1,16 @@
+**/target
+**/.settings
+.project
+.classpath
+.springBeans
+*.iml
+.idea/*
+
+build/
+bin/
+/.gradle/
+
+/api/
+/data/
+/*/bin/
+out/
